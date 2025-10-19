@@ -1,3 +1,3 @@
-mensagem = "oi"
+mensagem = "Olá GitHub"
 print(mensagem)
 
